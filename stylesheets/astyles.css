@@ -10,19 +10,22 @@ body {
 }
 
 #title {
-	font-family: 'Lato', sans-serif;
-	font-size: 32px;
+  font-family: 'Lato', sans-serif;
+  font-size: 28px;
     font-weight: 100;
-	align-content: left;
+    text-align: center;
     color: #047c68;
-    padding: 0px;
+}
+
+#yearmargin {
+    margin-top: 8%;
 }
 
 #yearbox {
-	font-family: 'Lato', sans-serif;
-	font-size: 32px;
+  font-family: 'Lato', sans-serif;
+  font-size: 28px;
     font-weight: 100;
-	align-items: right;
+  align-items: right;
     align-content: right;
     text-align: right;
     color: #000000;
@@ -34,7 +37,7 @@ body {
 }
 
 #yeartext {
-    margin-left:25px;
+    margin-left:25%;
 }
 
 #left {
@@ -52,15 +55,14 @@ body {
 }
 
 #infoPara {
-    margin-top: 4%;
     font-weight: 50;
     font-size: 15px;
-    padding: 5px;   
     text-align: justify;
+    padding:5%;
 }
 
 #chart {
-  padding-top: 100px;
+  padding-left: 10%;
 }
 
 #wikiBox {
@@ -117,17 +119,17 @@ body {
 }
 
 /* box displaying name upon hover */
-div.tooltip {	
-    position: absolute;			
-    text-align: center;			
-    width: 70px;					
-    height: 40px;					
-    padding: 2px;				
-    font: 12px sans-serif;		
-    background: lightsteelblue;	
-    border: 0px;		
-    border-radius: 8px;			
-    pointer-events: none;			
+div.tooltip { 
+    position: absolute;     
+    text-align: center;     
+    width: 70px;          
+    height: 40px;         
+    padding: 2px;       
+    font: 12px sans-serif;    
+    background: lightsteelblue; 
+    border: 0px;    
+    border-radius: 8px;     
+    pointer-events: none;     
 }
 
 h3 {
@@ -156,8 +158,7 @@ h3 {
 }
 
 .legend {
-    margin-top:50px;
-    color: #047c68;
+    margin-top:30px;
 }
 
 .Actor { background: #3C91E6;}
@@ -206,4 +207,51 @@ h3 {
   height: 25px; /* Slider handle height */
   background: #4CAF50; /* Green background */
   cursor: pointer; /* Cursor on hover */
+}
+
+.nav {
+  padding: .1rem 1.5rem 0 1.5rem;
+  align-content: right;
+  margin-left: 65%;
+}
+
+.nav-links {
+  display:flex;
+  justify-content: flex-end;
+}
+.nav-links > li {
+  padding: .5rem;
+  list-style-type: none;
+}
+
+.nav-links > li + li {
+  margin-left: 1rem;
+}
+
+.nav-links > li > a {
+  text-decoration: none;
+  color: rgb(4, 124, 104);
+  padding: 1rem;
+  position: relative;
+}
+
+.active {
+  font-weight: bold;
+} 
+
+@media (min-width: 800px) {
+ .nav-links > li > a:after {
+    background-color: rgb(201, 15, 93);
+    height: 2px;
+    content: " ";
+    width: 0;
+    position: absolute; 
+    bottom: 0;
+    right: 0;
+  }
+
+ .nav-links > li > a:hover:after {
+    width: 100%;
+    transition: .35s ease-out;
+  }
 }

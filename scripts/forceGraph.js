@@ -2,8 +2,8 @@
 
 
 // Initialise variables that are used in the functions
-var width = 600,
-    height = 700,
+var width = 700,
+    height = 650,
     year = 1910,
     begin_year = 1910,
     end_year = 2010,
@@ -38,7 +38,7 @@ function init() {
         node.each(function(d) { d.fisheye = fisheye(d); })
             .attr("cx", function(d) { return d.fisheye.x; })
             .attr("cy", function(d) { return d.fisheye.y; })
-            .attr("r", function(d) { return (d.fisheye.z)* 4.5; });
+            .attr("r", function(d) { return (d.fisheye.z)*4.5 });
     
         link.attr("x1", function(d) { return d.source.fisheye.x; })
             .attr("y1", function(d) { return d.source.fisheye.y; })
@@ -157,7 +157,7 @@ function update() {
             if (d.relations) {
                 return 8 + d.relations.length; 
             } else {
-                return 8;
+                return 5;
             }
         })
         .style("fill", color)
