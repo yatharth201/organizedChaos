@@ -1,0 +1,209 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+#title {
+	font-family: 'Lato', sans-serif;
+	font-size: 32px;
+    font-weight: 100;
+	align-content: left;
+    color: #047c68;
+    padding: 0px;
+}
+
+#yearbox {
+	font-family: 'Lato', sans-serif;
+	font-size: 32px;
+    font-weight: 100;
+	align-items: right;
+    align-content: right;
+    text-align: right;
+    color: #000000;
+    padding: 0px;
+}
+
+#yeardiv {
+    margin-left:25px;
+}
+
+#yeartext {
+    margin-left:25px;
+}
+
+#left {
+    padding: 30px;
+}
+
+#right {
+    padding: 30px;
+}
+
+#yeardiv {
+    align-items: right;
+    align-content: right;
+    text-align: right;
+}
+
+#infoPara {
+    margin-top: 4%;
+    font-weight: 50;
+    font-size: 15px;
+    padding: 5px;   
+    text-align: justify;
+}
+
+#chart {
+  padding-top: 100px;
+}
+
+#wikiBox {
+    margin-top: 2%;
+    width: 100%;
+    height: 370px;
+    overflow: auto;
+    border-style: solid;
+    border-color: #047c68;
+    border-width: 1px;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    text-align: center;
+    align-items: center;
+}
+
+#wikiPara {
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    align-items: center;
+    padding: 8px;
+}
+
+#wikiHeading {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 32px;
+    font-weight: 100;
+}
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+.node {
+    cursor: pointer;
+    stroke: #3182bd;
+    stroke-width: 1.5px;
+}
+
+.link {
+    fill: none;
+    stroke: #9ecae1;
+    stroke-width: 1.5px;
+}
+
+/* box displaying name upon hover */
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 70px;					
+    height: 40px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+h3 {
+    margin-top: 15px;
+}
+.country-name {
+    margin: 0 !important;
+}
+
+.key-dot {
+    display: inline-block;
+    height: 10px;
+    margin-right: .5em;
+    width: 10px;
+}
+
+.key-line {
+    display: inline-block;
+    height: 3px;
+    margin-right: .5em;
+    width: 10px;
+}
+
+.legend1 {
+    margin-top:4px;
+}
+
+.legend {
+    margin-top:50px;
+    color: #047c68;
+}
+
+.Actor { background: #3C91E6;}
+.Director { background: #A2D729;}
+.Producer { background: #FA824C;}
+.Other { background: #AA4465;} 
+
+.Sibling-Relationship { background: #ECA400;} 
+.Marriage-Relationship { background: #CA61C3;} 
+.Parent-Child-Relationship { background: #DA2647;} 
+
+.slidecontainer {
+  width: 100%; /* Width of the outside container */
+}
+
+/* The slider itself */
+.slider {
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  width: 100%; /* Full-width */
+  height: 25px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+  transition: opacity .2s;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */ 
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #047c68; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #4CAF50; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}

@@ -1,0 +1,3282 @@
+{
+  "id_list": [
+    "nm2655625",
+    "nm0013158",
+    "nm0013159",
+    "nm0038020",
+    "nm0332871",
+    "nm0222469",
+    "nm1027719",
+    "nm0015287",
+    "nm0015295",
+    "nf0576455",
+    "nm0019402",
+    "nm0004699",
+    "nm5934356",
+    "nf0576454",
+    "nm0576454",
+    "nm0019462",
+    "nf0080322",
+    "nm1815193",
+    "nf0080321",
+    "nf0080325",
+    "nm5934357",
+    "nm0023868",
+    "nm8562373",
+    "nm0612870",
+    "nm6235678",
+    "nm0025399",
+    "nm4141638",
+    "nm2173354",
+    "nf0451261",
+    "nm1027791",
+    "nm0025608",
+    "nm0007147",
+    "nm0025613",
+    "nm0025617",
+    "nm0002172",
+    "nm1893457",
+    "nm0025627",
+    "nm0025628",
+    "nm0025629",
+    "nf0080324",
+    "nm1147677",
+    "nm0037019",
+    "nm1201873",
+    "nm0044337",
+    "nm0000818",
+    "nm0044343",
+    "nm1191646",
+    "nm1318320",
+    "nm1318321",
+    "nm3070408",
+    "nm0044796",
+    "nm0045393",
+    "nm0706787",
+    "nf0000822",
+    "nm0000821",
+    "nm0045394",
+    "nm0080149",
+    "nf0000823",
+    "nf0000820",
+    "nm0046894",
+    "nm0638295",
+    "nm0047009",
+    "nm0050188",
+    "nm0050197",
+    "nm0080251",
+    "nm1017633",
+    "nf0080323",
+    "nm0080315",
+    "nm0080319",
+    "nm0080320",
+    "nm0080324",
+    "nm0080327",
+    "nm5458614",
+    "nm7248508",
+    "nm1023986",
+    "nm0080345",
+    "nm3002347",
+    "nm0149822",
+    "nm0151293",
+    "nm0084428",
+    "nm0154146",
+    "nm0004487",
+    "nm0159147",
+    "nm0159148",
+    "nm0159150",
+    "nf0159149",
+    "nm4495174",
+    "nm0159159",
+    "nf0159160",
+    "nm1231899",
+    "nm1531347",
+    "nm0159162",
+    "nm0159167",
+    "nm0007181",
+    "nm0201710",
+    "nf0080318",
+    "nm0201713",
+    "nm1867717",
+    "nm0219967",
+    "nm0004429",
+    "nm0219968",
+    "nm0004564",
+    "nm5376616",
+    "nm0219971",
+    "nm1299510",
+    "nm1299011",
+    "nm0222426",
+    "nm0222427",
+    "nm0004418",
+    "nm0222428",
+    "nm0223521",
+    "nm0223522",
+    "nm2539328",
+    "nm2102682",
+    "nm3315894",
+    "nm0004291",
+    "nm3571404",
+    "nm0004569",
+    "nm0004570",
+    "nm0474776",
+    "nm0474780",
+    "nm0006369",
+    "nm0474822",
+    "nm0307231",
+    "nm0996960",
+    "nm0006370",
+    "nm1571396",
+    "nm0346614",
+    "nm1431656",
+    "nm0368098",
+    "nm0007102",
+    "nm0409787",
+    "nm0409790",
+    "nm5055250",
+    "nm0006762",
+    "nm8938569",
+    "nm4221666",
+    "nf4221665",
+    "nm2140421",
+    "nm0419787",
+    "nm0424101",
+    "nm0424103",
+    "nm0424105",
+    "nm0430817",
+    "nm1185265",
+    "nm1185265",
+    "nm0438092",
+    "nm0438098",
+    "nm0438461",
+    "nm1207480",
+    "nm0438463",
+    "nm1819083",
+    "nf0001410",
+    "nm0044999",
+    "nm0059777",
+    "nm0438470",
+    "nm0438471",
+    "nm7561367",
+    "nm9427099",
+    "nm0419707",
+    "nm0420090",
+    "nm0447557",
+    "nm0220828",
+    "nm0220823",
+    "nm1216260",
+    "nm0004430",
+    "nm0004626",
+    "nm0006433",
+    "nm2049722",
+    "nm1577858",
+    "nm0802183",
+    "nf0004434",
+    "nm1629078",
+    "nm0004432",
+    "nm0004292",
+    "nm0438497",
+    "nm1633541",
+    "nm0196380",
+    "nm3608045",
+    "nm0438501",
+    "nm0438504",
+    "nm0438503",
+    "nm1372788",
+    "nm0007106",
+    "nm0004433",
+    "nm0004434",
+    "nm0438506",
+    "nm3601766",
+    "nm2128238",
+    "nm0004437",
+    "nm0438508",
+    "nm0438510",
+    "nm0969428",
+    "nf0001410",
+    "nf0001409",
+    "nm0438488",
+    "nf0001408",
+    "nm0001408",
+    "nm0440235",
+    "nm0451148",
+    "nm1139068",
+    "nm0023863",
+    "nm0451170",
+    "nm0451207",
+    "nm0007134",
+    "nm0007228",
+    "nm0451211",
+    "nm0451215",
+    "nm0374974",
+    "nm1405359",
+    "nm0436967",
+    "nm0451257",
+    "nm0451261",
+    "nm0403826",
+    "nm1539779",
+    "nm0451307",
+    "nm1349318",
+    "nm0451311",
+    "nm0006795",
+    "nm0451313",
+    "nm9071083",
+    "nm0451321",
+    "nm1675786",
+    "nm0451326",
+    "nm0403981",
+    "nm1300301",
+    "nm0451379",
+    "nm0451391",
+    "nm0004435",
+    "nm0451392",
+    "nm0451396",
+    "nm2020109",
+    "nm1279922",
+    "nm0447240",
+    "nm0451600",
+    "nm0451601",
+    "nm1199508",
+    "nm3071488",
+    "nm0451846",
+    "nm0456096",
+    "nm0471427",
+    "nm0474774",
+    "nm0474876",
+    "nm0474932",
+    "nm1145655",
+    "nf0527451",
+    "nm0527453",
+    "nf0527452",
+    "nm0837199",
+    "nm0961448",
+    "nm0622193",
+    "nm0707398",
+    "nm0007107",
+    "nf0004487",
+    "nm0592578",
+    "nm0592583",
+    "nm0592595",
+    "nm2209781",
+    "nm0971111",
+    "nm0611527",
+    "nm0611535",
+    "nm2752803",
+    "nm5619229",
+    "nm0611550",
+    "nm0611552",
+    "nf1642510",
+    "nm0611558",
+    "nm1642511",
+    "nm4554077",
+    "nm1166510",
+    "nm1126884",
+    "nm1860887",
+    "nm0611582",
+    "nm0849500",
+    "nm0849863",
+    "nm0612618",
+    "nm1396405",
+    "nm1195705",
+    "nm0618898",
+    "nm2143210",
+    "nf0004294",
+    "nf0004293",
+    "nf0000821",
+    "nm0992664",
+    "nm0707534",
+    "nm0632615",
+    "nm0643348",
+    "nm0643350",
+    "nm1059103",
+    "nm2138653",
+    "nm0659156",
+    "nm4808460",
+    "nm0661239",
+    "nm1637738",
+    "nm0665351",
+    "nm0665544",
+    "nm0665550",
+    "nm0665554",
+    "nm0665599",
+    "nm0706790",
+    "nm0707502",
+    "nm0713618",
+    "nm0004335",
+    "nm0004436",
+    "nm0004363",
+    "nm0004362",
+    "nm2265217",
+    "nm1123937",
+    "nm0747172",
+    "nm0756379",
+    "nm0756380",
+    "nm1442631",
+    "nm0756378",
+    "nm1062896",
+    "nm0759662",
+    "nm6184263",
+    "nm5055052",
+    "nf0006357",
+    "nm0006358",
+    "nm0764314",
+    "nm0764316",
+    "nm1927212",
+    "nm0764667",
+    "nm0764669",
+    "nm1437485",
+    "nm0787462",
+    "nm3865073",
+    "nm7508187",
+    "nm0792911",
+    "nm0794484",
+    "nm0623321",
+    "nm1228897",
+    "nm0006763",
+    "nm5899377",
+    "nm0802080",
+    "nf0307230",
+    "nm1942776",
+    "nf0159148",
+    "nm3828984",
+    "nm2182334",
+    "nm0802688",
+    "nf0802688",
+    "nm0802693",
+    "nm1391682",
+    "nm6327494",
+    "nm1762903",
+    "nm1242277",
+    "nf0802689",
+    "nm1207634",
+    "nm0802695",
+    "nm1887138",
+    "nm0839634",
+    "nm2124966",
+    "nm0846616",
+    "nm2838280",
+    "nm6327493",
+    "nm0894340",
+    "nm4858207",
+    "nm0906226",
+    "nm2226774",
+    "nm0415274",
+    "nm0534866",
+    "nm0534870",
+    "nf0534865",
+    "nm5478232",
+    "nm2936282"
+  ],
+  "nm2655625": {
+    "id": "nm2655625",
+    "year_entry": 2006,
+    "last_name": "Agnihotri",
+    "first_name": "Alvira Khan",
+    "profession": "producer/other",
+    "relation": []
+  },
+  "nm0013158": {
+    "id": "nm0013158",
+    "year_entry": 1983,
+    "last_name": "Agnihotri",
+    "first_name": "Atul",
+    "profession": "producer/director/actor",
+    "relation": []
+  },
+  "nm0013159": {
+    "id": "nm0013159",
+    "year_entry": 1979,
+    "last_name": "Agnihotri",
+    "first_name": "Rati",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0038020": {
+    "id": "nm0038020",
+    "year_entry": 1936,
+    "last_name": "Ahuja",
+    "first_name": "Arun",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0332871": {
+    "id": "nm0332871",
+    "year_entry": 1986,
+    "last_name": "Ahuja",
+    "first_name": "Govinda",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0222469": {
+    "id": "nm0222469",
+    "year_entry": 1954,
+    "last_name": "Ahuja",
+    "first_name": "Nirmala",
+    "profession": "singer/actor",
+    "relation": []
+  },
+  "nm1027719": {
+    "id": "nm1027719",
+    "year_entry": 2004,
+    "last_name": "Akhtar",
+    "first_name": "Farhan",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0015287": {
+    "id": "nm0015287",
+    "year_entry": 1969,
+    "last_name": "Akhtar",
+    "first_name": "Javed",
+    "profession": "lyricist/writer/",
+    "relation": []
+  },
+  "nm0015295": {
+    "id": "nm0015295",
+    "year_entry": 1998,
+    "last_name": "Akhtar",
+    "first_name": "Zoya",
+    "profession": "other/director",
+    "relation": []
+  },
+  "nf0576455": {
+    "id": "nf0576455",
+    "year_entry": "",
+    "last_name": "Ali",
+    "first_name": "(Baby) Ginny",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0019402": {
+    "id": "nm0019402",
+    "year_entry": 1972,
+    "last_name": "Ali",
+    "first_name": "Anwar",
+    "profession": "other/actor",
+    "relation": []
+  },
+  "nm0004699": {
+    "id": "nm0004699",
+    "year_entry": 1961,
+    "last_name": "Ali",
+    "first_name": "Lucky",
+    "profession": "music/actor",
+    "relation": []
+  },
+  "nm5934356": {
+    "id": "nm5934356",
+    "year_entry": 1974,
+    "last_name": "Ali",
+    "first_name": "Macky",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0576454": {
+    "id": "nf0576454",
+    "year_entry": "",
+    "last_name": "Ali",
+    "first_name": "Madhu",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0576454": {
+    "id": "nm0576454",
+    "year_entry": 1943,
+    "last_name": "Ali",
+    "first_name": "Mehmood",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0019462": {
+    "id": "nm0019462",
+    "year_entry": 1937,
+    "last_name": "Ali",
+    "first_name": "Mumtaz",
+    "profession": "actor/other",
+    "relation": []
+  },
+  "nf0080322": {
+    "id": "nf0080322",
+    "year_entry": 1949,
+    "last_name": "Ali",
+    "first_name": "Poornima",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1815193": {
+    "id": "nm1815193",
+    "year_entry": 1979,
+    "last_name": "Ali",
+    "first_name": "Pucky",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0080321": {
+    "id": "nf0080321",
+    "year_entry": 1949,
+    "last_name": "Ali",
+    "first_name": "Shirin",
+    "profession": "relative",
+    "relation": []
+  },
+  "nf0080325": {
+    "id": "nf0080325",
+    "year_entry": 1949,
+    "last_name": "Ali",
+    "first_name": "Shirin's sister",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm5934357": {
+    "id": "nm5934357",
+    "year_entry": 1978,
+    "last_name": "Ali",
+    "first_name": "Tracy",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0023868": {
+    "id": "nm0023868",
+    "year_entry": 1970,
+    "last_name": "Aman",
+    "first_name": "Zeenat",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm8562373": {
+    "id": "nm8562373",
+    "year_entry": 1994,
+    "last_name": "Ambani",
+    "first_name": "Anil",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm0612870": {
+    "id": "nm0612870",
+    "year_entry": 1978,
+    "last_name": "Ambani",
+    "first_name": "Tina",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm6235678": {
+    "id": "nm6235678",
+    "year_entry": 1990,
+    "last_name": "Amrohi",
+    "first_name": "Bilal",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0025399": {
+    "id": "nm0025399",
+    "year_entry": 1938,
+    "last_name": "Amrohi",
+    "first_name": "Kamal",
+    "profession": "director/other",
+    "relation": []
+  },
+  "nm4141638": {
+    "id": "nm4141638",
+    "year_entry": 1990,
+    "last_name": "Amrohi",
+    "first_name": "Mashhoor",
+    "profession": "actor/director",
+    "relation": []
+  },
+  "nm2173354": {
+    "id": "nm2173354",
+    "year_entry": 1983,
+    "last_name": "Amrohi",
+    "first_name": "Tajdar",
+    "profession": "director/actor",
+    "relation": []
+  },
+  "nf0451261": {
+    "id": "nf0451261",
+    "year_entry": 1983,
+    "last_name": "Amrohi",
+    "first_name": "Tajdar's wife",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm1027791": {
+    "id": "nm1027791",
+    "year_entry": 1965,
+    "last_name": "Anand",
+    "first_name": "Bittu",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm0025608": {
+    "id": "nm0025608",
+    "year_entry": 1946,
+    "last_name": "Anand",
+    "first_name": "Chetan",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0007147": {
+    "id": "nm0007147",
+    "year_entry": 1946,
+    "last_name": "Anand",
+    "first_name": "Dev",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0025613": {
+    "id": "nm0025613",
+    "year_entry": 1948,
+    "last_name": "Anand",
+    "first_name": "Inder Raj",
+    "profession": "writer",
+    "relation": []
+  },
+  "nm0025617": {
+    "id": "nm0025617",
+    "year_entry": 1986,
+    "last_name": "Anand",
+    "first_name": "Ketan",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0002172": {
+    "id": "nm0002172",
+    "year_entry": 1983,
+    "last_name": "Anand",
+    "first_name": "Mukul",
+    "profession": "director",
+    "relation": []
+  },
+  "nm1893457": {
+    "id": "nm1893457",
+    "year_entry": 1982,
+    "last_name": "Anand",
+    "first_name": "Siddharth",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0025627": {
+    "id": "nm0025627",
+    "year_entry": 1965,
+    "last_name": "Anand",
+    "first_name": "Tinnu",
+    "profession": "actor/director",
+    "relation": []
+  },
+  "nm0025628": {
+    "id": "nm0025628",
+    "year_entry": 1946,
+    "last_name": "Anand",
+    "first_name": "Uma",
+    "profession": "actor/writer",
+    "relation": []
+  },
+  "nm0025629": {
+    "id": "nm0025629",
+    "year_entry": 1954,
+    "last_name": "Anand",
+    "first_name": "Vijay",
+    "profession": "director/producer/actor",
+    "relation": []
+  },
+  "nf0080324": {
+    "id": "nf0080324",
+    "year_entry": "",
+    "last_name": "Anwar",
+    "first_name": "Hashmi",
+    "profession": "director",
+    "relation": []
+  },
+  "nm1147677": {
+    "id": "nm1147677",
+    "year_entry": 1999,
+    "last_name": "Arora",
+    "first_name": "Amrita",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0037019": {
+    "id": "nm0037019",
+    "year_entry": 1994,
+    "last_name": "Arora",
+    "first_name": "Malaika",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1201873": {
+    "id": "nm1201873",
+    "year_entry": 1989,
+    "last_name": "Azim",
+    "first_name": "Neelima",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0044337": {
+    "id": "nm0044337",
+    "year_entry": 1975,
+    "last_name": "Azmi",
+    "first_name": "Baba",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0000818": {
+    "id": "nm0000818",
+    "year_entry": 1974,
+    "last_name": "Azmi",
+    "first_name": "Shabana",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0044343": {
+    "id": "nm0044343",
+    "year_entry": 1985,
+    "last_name": "Azmi",
+    "first_name": "Tanvi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1191646": {
+    "id": "nm1191646",
+    "year_entry": 2002,
+    "last_name": "Babbar",
+    "first_name": "Arya",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1318320": {
+    "id": "nm1318320",
+    "year_entry": 2003,
+    "last_name": "Babbar",
+    "first_name": "Juhi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1318321": {
+    "id": "nm1318321",
+    "year_entry": 2003,
+    "last_name": "Babbar",
+    "first_name": "Nadira",
+    "profession": "actor/writer",
+    "relation": []
+  },
+  "nm3070408": {
+    "id": "nm3070408",
+    "year_entry": 2008,
+    "last_name": "Babbar",
+    "first_name": "Prateik",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0044796": {
+    "id": "nm0044796",
+    "year_entry": 1978,
+    "last_name": "Babbar",
+    "first_name": "Raj",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0045393": {
+    "id": "nm0045393",
+    "year_entry": 2000,
+    "last_name": "Bachchan",
+    "first_name": "Abhishek",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0706787": {
+    "id": "nm0706787",
+    "year_entry": 1997,
+    "last_name": "Bachchan",
+    "first_name": "Aishwarya Rai",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0000822": {
+    "id": "nf0000822",
+    "year_entry": 1969,
+    "last_name": "Bachchan",
+    "first_name": "Ajitabh",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0000821": {
+    "id": "nm0000821",
+    "year_entry": 1969,
+    "last_name": "Bachchan",
+    "first_name": "Amitabh",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0045394": {
+    "id": "nm0045394",
+    "year_entry": 1971,
+    "last_name": "Bachchan",
+    "first_name": "Harivansh Rai",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0080149": {
+    "id": "nm0080149",
+    "year_entry": 1963,
+    "last_name": "Bachchan",
+    "first_name": "Jaya",
+    "profession": "actor/other",
+    "relation": []
+  },
+  "nf0000823": {
+    "id": "nf0000823",
+    "year_entry": 1969,
+    "last_name": "Bachchan",
+    "first_name": "Naina",
+    "profession": "relative",
+    "relation": []
+  },
+  "nf0000820": {
+    "id": "nf0000820",
+    "year_entry": 1969,
+    "last_name": "Bachchan",
+    "first_name": "Teji",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0046894": {
+    "id": "nm0046894",
+    "year_entry": 1983,
+    "last_name": "Bahl",
+    "first_name": "Mohnish",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0638295": {
+    "id": "nm0638295",
+    "year_entry": 1950,
+    "last_name": "Bahl",
+    "first_name": "Nutan",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0047009": {
+    "id": "nm0047009",
+    "year_entry": 1933,
+    "last_name": "Bai",
+    "first_name": "Rattan",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0050188": {
+    "id": "nm0050188",
+    "year_entry": 1946,
+    "last_name": "Bali",
+    "first_name": "Geeta",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0050197": {
+    "id": "nm0050197",
+    "year_entry": 1967,
+    "last_name": "Bali",
+    "first_name": "Yogeeta",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0080251": {
+    "id": "nm0080251",
+    "year_entry": 1990,
+    "last_name": "Bharti",
+    "first_name": "Divya",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1017633": {
+    "id": "nm1017633",
+    "year_entry": 1999,
+    "last_name": "Bhatt",
+    "first_name": "Alia",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0080323": {
+    "id": "nf0080323",
+    "year_entry": 1970,
+    "last_name": "Bhatt",
+    "first_name": "Heena",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0080315": {
+    "id": "nm0080315",
+    "year_entry": 1970,
+    "last_name": "Bhatt",
+    "first_name": "Mahesh",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0080319": {
+    "id": "nm0080319",
+    "year_entry": 1989,
+    "last_name": "Bhatt",
+    "first_name": "Mukesh",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm0080320": {
+    "id": "nm0080320",
+    "year_entry": 1942,
+    "last_name": "Bhatt",
+    "first_name": "Nanabhai",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0080324": {
+    "id": "nm0080324",
+    "year_entry": 1989,
+    "last_name": "Bhatt",
+    "first_name": "Pooja",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0080327": {
+    "id": "nm0080327",
+    "year_entry": 1990,
+    "last_name": "Bhatt",
+    "first_name": "Robin",
+    "profession": "other",
+    "relation": []
+  },
+  "nm5458614": {
+    "id": "nm5458614",
+    "year_entry": 1989,
+    "last_name": "Bhatt",
+    "first_name": "Sakshi",
+    "profession": "producer/actor",
+    "relation": []
+  },
+  "nm7248508": {
+    "id": "nm7248508",
+    "year_entry": 1989,
+    "last_name": "Bhatt",
+    "first_name": "Shaheen",
+    "profession": "writer",
+    "relation": []
+  },
+  "nm1023986": {
+    "id": "nm1023986",
+    "year_entry": 1983,
+    "last_name": "Bhattacharya",
+    "first_name": "Aditya",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0080345": {
+    "id": "nm0080345",
+    "year_entry": 1961,
+    "last_name": "Bhattacharya",
+    "first_name": "Basu",
+    "profession": "director",
+    "relation": []
+  },
+  "nm3002347": {
+    "id": "nm3002347",
+    "year_entry": 2007,
+    "last_name": "Chakraborty",
+    "first_name": "Mahaakshay",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0149822": {
+    "id": "nm0149822",
+    "year_entry": 1974,
+    "last_name": "Chakraborty",
+    "first_name": "Mithun",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0151293": {
+    "id": "nm0151293",
+    "year_entry": 1969,
+    "last_name": "Chandravarkar",
+    "first_name": "Leena",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0084428": {
+    "id": "nm0084428",
+    "year_entry": 1958,
+    "last_name": "Chatterjee",
+    "first_name": "Biswajit",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0154146": {
+    "id": "nm0154146",
+    "year_entry": 1968,
+    "last_name": "Chatterjee",
+    "first_name": "Prosenjit",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004487": {
+    "id": "nm0004487",
+    "year_entry": 1986,
+    "last_name": "Chawla",
+    "first_name": "Juhi",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0159147": {
+    "id": "nm0159147",
+    "year_entry": 1989,
+    "last_name": "Chopra",
+    "first_name": "Aditya",
+    "profession": "producer/director",
+    "relation": []
+  },
+  "nm0159148": {
+    "id": "nm0159148",
+    "year_entry": 1949,
+    "last_name": "Chopra",
+    "first_name": "B. R.",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0159150": {
+    "id": "nm0159150",
+    "year_entry": 1951,
+    "last_name": "Chopra",
+    "first_name": "Dharam Raj",
+    "profession": "other",
+    "relation": []
+  },
+  "nf0159149": {
+    "id": "nf0159149",
+    "year_entry": 1970,
+    "last_name": "Chopra",
+    "first_name": "Pamela",
+    "profession": "music/producer/writer",
+    "relation": []
+  },
+  "nm4495174": {
+    "id": "nm4495174",
+    "year_entry": 2011,
+    "last_name": "Chopra",
+    "first_name": "Parineeti",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0159159": {
+    "id": "nm0159159",
+    "year_entry": 1955,
+    "last_name": "Chopra",
+    "first_name": "Prem",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0159160": {
+    "id": "nf0159160",
+    "year_entry": 1955,
+    "last_name": "Chopra",
+    "first_name": "Prerana",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm1231899": {
+    "id": "nm1231899",
+    "year_entry": 2001,
+    "last_name": "Chopra",
+    "first_name": "Priyanka",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1531347": {
+    "id": "nm1531347",
+    "year_entry": 1965,
+    "last_name": "Chopra",
+    "first_name": "Raj",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0159162": {
+    "id": "nm0159162",
+    "year_entry": 1969,
+    "last_name": "Chopra",
+    "first_name": "Ravi",
+    "profession": "director/other",
+    "relation": []
+  },
+  "nm0159167": {
+    "id": "nm0159167",
+    "year_entry": 1993,
+    "last_name": "Chopra",
+    "first_name": "Uday",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0007181": {
+    "id": "nm0007181",
+    "year_entry": 1956,
+    "last_name": "Chopra",
+    "first_name": "Yash",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0201710": {
+    "id": "nm0201710",
+    "year_entry": 1993,
+    "last_name": "Darshan",
+    "first_name": "Dharmesh",
+    "profession": "other/director/music",
+    "relation": []
+  },
+  "nf0080318": {
+    "id": "nf0080318",
+    "year_entry": 1970,
+    "last_name": "Darshan",
+    "first_name": "Sheila",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0201713": {
+    "id": "nm0201713",
+    "year_entry": 1996,
+    "last_name": "Darshan",
+    "first_name": "Suneel",
+    "profession": "producer/director/other",
+    "relation": []
+  },
+  "nm1867717": {
+    "id": "nm1867717",
+    "year_entry": 1999,
+    "last_name": "Deol",
+    "first_name": "Abhay",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0219967": {
+    "id": "nm0219967",
+    "year_entry": 1977,
+    "last_name": "Deol",
+    "first_name": "Bobby",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004429": {
+    "id": "nm0004429",
+    "year_entry": 1960,
+    "last_name": "Deol",
+    "first_name": "Dharmendra",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0219968": {
+    "id": "nm0219968",
+    "year_entry": 2002,
+    "last_name": "Deol",
+    "first_name": "Esha",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004564": {
+    "id": "nm0004564",
+    "year_entry": 1965,
+    "last_name": "Deol",
+    "first_name": "Hema Malini",
+    "profession": "actor/producer/director",
+    "relation": []
+  },
+  "nm5376616": {
+    "id": "nm5376616",
+    "year_entry": 2013,
+    "last_name": "Deol",
+    "first_name": "Karan",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0219971": {
+    "id": "nm0219971",
+    "year_entry": 1983,
+    "last_name": "Deol",
+    "first_name": "Sunny",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1299510": {
+    "id": "nm1299510",
+    "year_entry": 1999,
+    "last_name": "Deshmukh",
+    "first_name": "Genelia",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm1299011": {
+    "id": "nm1299011",
+    "year_entry": 2003,
+    "last_name": "Deshmukh",
+    "first_name": "Riteish",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0222426": {
+    "id": "nm0222426",
+    "year_entry": 1991,
+    "last_name": "Devgan",
+    "first_name": "Ajay",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0222427": {
+    "id": "nm0222427",
+    "year_entry": 2000,
+    "last_name": "Devgan",
+    "first_name": "Anil",
+    "profession": "director/other",
+    "relation": []
+  },
+  "nm0004418": {
+    "id": "nm0004418",
+    "year_entry": 1983,
+    "last_name": "Devgan",
+    "first_name": "Kajol",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0222428": {
+    "id": "nm0222428",
+    "year_entry": 1972,
+    "last_name": "Devgan",
+    "first_name": "Veeru",
+    "profession": "actor/other",
+    "relation": []
+  },
+  "nm0223521": {
+    "id": "nm0223521",
+    "year_entry": 1970,
+    "last_name": "Dhawan",
+    "first_name": "Anil",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0223522": {
+    "id": "nm0223522",
+    "year_entry": 1978,
+    "last_name": "Dhawan",
+    "first_name": "David",
+    "profession": "director/writer/other",
+    "relation": []
+  },
+  "nm2539328": {
+    "id": "nm2539328",
+    "year_entry": 2006,
+    "last_name": "Dhawan",
+    "first_name": "Rohit",
+    "profession": "writer/director",
+    "relation": []
+  },
+  "nm2102682": {
+    "id": "nm2102682",
+    "year_entry": 1998,
+    "last_name": "Dhawan",
+    "first_name": "Siddharth",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm3315894": {
+    "id": "nm3315894",
+    "year_entry": 2010,
+    "last_name": "Dhawan",
+    "first_name": "Varun",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004291": {
+    "id": "nm0004291",
+    "year_entry": 1935,
+    "last_name": "Dutt",
+    "first_name": "Nargis",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm3571404": {
+    "id": "nm3571404",
+    "year_entry": 2010,
+    "last_name": "Dutt",
+    "first_name": "Priya",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0004569": {
+    "id": "nm0004569",
+    "year_entry": 1971,
+    "last_name": "Dutt",
+    "first_name": "Sanjay",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004570": {
+    "id": "nm0004570",
+    "year_entry": 1955,
+    "last_name": "Dutt",
+    "first_name": "Sunil",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0474776": {
+    "id": "nm0474776",
+    "year_entry": 1974,
+    "last_name": "Ganguly",
+    "first_name": "Amit Kumar",
+    "profession": "singer",
+    "relation": []
+  },
+  "nm0474780": {
+    "id": "nm0474780",
+    "year_entry": 1950,
+    "last_name": "Ganguly",
+    "first_name": "Anoop Kumar",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0006369": {
+    "id": "nm0006369",
+    "year_entry": 1936,
+    "last_name": "Ganguly",
+    "first_name": "Ashok Kumar",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0474822": {
+    "id": "nm0474822",
+    "year_entry": 1935,
+    "last_name": "Ganguly",
+    "first_name": "Kishore Kumar",
+    "profession": "singer/actor",
+    "relation": []
+  },
+  "nm0307231": {
+    "id": "nm0307231",
+    "year_entry": 1962,
+    "last_name": "Garewal",
+    "first_name": "Simi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0996960": {
+    "id": "nm0996960",
+    "year_entry": 1981,
+    "last_name": "Goswami",
+    "first_name": "Kunal",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0006370": {
+    "id": "nm0006370",
+    "year_entry": 1957,
+    "last_name": "Goswami",
+    "first_name": "Manoj Kumar",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1571396": {
+    "id": "nm1571396",
+    "year_entry": 2003,
+    "last_name": "Goswami",
+    "first_name": "Udita",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0346614": {
+    "id": "nm0346614",
+    "year_entry": 1944,
+    "last_name": "Guha Thakurta",
+    "first_name": "Ruma",
+    "profession": "singer/actor",
+    "relation": []
+  },
+  "nm1431656": {
+    "id": "nm1431656",
+    "year_entry": 1999,
+    "last_name": "Hashmi",
+    "first_name": "Emran",
+    "profession": "actor/other",
+    "relation": []
+  },
+  "nm0368098": {
+    "id": "nm0368098",
+    "year_entry": 1969,
+    "last_name": "Hashmi",
+    "first_name": "Jamal",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0007102": {
+    "id": "nm0007102",
+    "year_entry": 1982,
+    "last_name": "Hashmi",
+    "first_name": "Tabu",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0409787": {
+    "id": "nm0409787",
+    "year_entry": 1960,
+    "last_name": "Irani",
+    "first_name": "Daisy",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0409790": {
+    "id": "nm0409790",
+    "year_entry": 1956,
+    "last_name": "Irani",
+    "first_name": "Honey",
+    "profession": "other",
+    "relation": []
+  },
+  "nm5055250": {
+    "id": "nm5055250",
+    "year_entry": 1963,
+    "last_name": "Irani",
+    "first_name": "Menka",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0006762": {
+    "id": "nm0006762",
+    "year_entry": 1961,
+    "last_name": "Jaffrey",
+    "first_name": "Saeed",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm8938569": {
+    "id": "nm8938569",
+    "year_entry": 2016,
+    "last_name": "Jain",
+    "first_name": "Aadar",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm4221666": {
+    "id": "nm4221666",
+    "year_entry": 2012,
+    "last_name": "Jain",
+    "first_name": "Armaan",
+    "profession": "other/actor",
+    "relation": []
+  },
+  "nf4221665": {
+    "id": "nf4221665",
+    "year_entry": 2012,
+    "last_name": "Jain",
+    "first_name": "Reema",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm2140421": {
+    "id": "nm2140421",
+    "year_entry": 1969,
+    "last_name": "Jariwala",
+    "first_name": "Kishore Kumar",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0419787": {
+    "id": "nm0419787",
+    "year_entry": 1941,
+    "last_name": "Jaywant",
+    "first_name": "Nalini",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0424101": {
+    "id": "nm0424101",
+    "year_entry": 1980,
+    "last_name": "Johar",
+    "first_name": "Hiroo",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm0424103": {
+    "id": "nm0424103",
+    "year_entry": 1989,
+    "last_name": "Johar",
+    "first_name": "Karan",
+    "profession": "director/producer",
+    "relation": []
+  },
+  "nm0424105": {
+    "id": "nm0424105",
+    "year_entry": 1951,
+    "last_name": "Johar",
+    "first_name": "Yash",
+    "profession": "producer/other",
+    "relation": []
+  },
+  "nm0430817": {
+    "id": "nm0430817",
+    "year_entry": 1999,
+    "last_name": "Joshi",
+    "first_name": "Sharman",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1185265": {
+    "id": "nm1185265",
+    "year_entry": 1984,
+    "last_name": "Juneja",
+    "first_name": "Kiran",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0438092": {
+    "id": "nm0438092",
+    "year_entry": 1973,
+    "last_name": "Kapadia",
+    "first_name": "Dimple",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0438098": {
+    "id": "nm0438098",
+    "year_entry": 1977,
+    "last_name": "Kapadia",
+    "first_name": "Simple",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0438461": {
+    "id": "nm0438461",
+    "year_entry": 1995,
+    "last_name": "Kapoor",
+    "first_name": "Abhishek",
+    "profession": "director/actor",
+    "relation": []
+  },
+  "nm1207480": {
+    "id": "nm1207480",
+    "year_entry": 1975,
+    "last_name": "Kapoor",
+    "first_name": "Aditya Raj",
+    "profession": "actor/other",
+    "relation": []
+  },
+  "nm0438463": {
+    "id": "nm0438463",
+    "year_entry": 1979,
+    "last_name": "Kapoor",
+    "first_name": "Anil",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1819083": {
+    "id": "nm1819083",
+    "year_entry": 2002,
+    "last_name": "Kapoor",
+    "first_name": "Arjun",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0001410": {
+    "id": "nf0001410",
+    "year_entry": "",
+    "last_name": "Kapur",
+    "first_name": "Aruna",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0044999": {
+    "id": "nm0044999",
+    "year_entry": 1966,
+    "last_name": "Kapoor",
+    "first_name": "Babita",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0059777": {
+    "id": "nm0059777",
+    "year_entry": 1951,
+    "last_name": "Kapoor",
+    "first_name": "Basheswarnath",
+    "profession": "other/actor",
+    "relation": []
+  },
+  "nm0438470": {
+    "id": "nm0438470",
+    "year_entry": 1980,
+    "last_name": "Kapoor",
+    "first_name": "Boney",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm0438471": {
+    "id": "nm0438471",
+    "year_entry": 1995,
+    "last_name": "Kapoor",
+    "first_name": "Ekta",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm7561367": {
+    "id": "nm7561367",
+    "year_entry": 2015,
+    "last_name": "Kapoor",
+    "first_name": "Harshvardhan",
+    "profession": "actor/other",
+    "relation": []
+  },
+  "nm9427099": {
+    "id": "nm9427099",
+    "year_entry": 2018,
+    "last_name": "Kapoor",
+    "first_name": "Janhvi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0419707": {
+    "id": "nm0419707",
+    "year_entry": 1972,
+    "last_name": "Kapoor",
+    "first_name": "Jayasudha",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0420090": {
+    "id": "nm0420090",
+    "year_entry": 1964,
+    "last_name": "Kapoor",
+    "first_name": "Jeetendra",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0447557": {
+    "id": "nm0447557",
+    "year_entry": 1961,
+    "last_name": "Kapoor",
+    "first_name": "Jennifer Kendal",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0220828": {
+    "id": "nm0220828",
+    "year_entry": 1957,
+    "last_name": "Desai",
+    "first_name": "Manmohan",
+    "profession": "",
+    "relation": []
+  },
+  "nm0220823": {
+    "id": "nm0220823",
+    "year_entry": 1983,
+    "last_name": "Desai",
+    "first_name": "Ketan",
+    "profession": "",
+    "relation": []
+  },
+  "nm1216260": {
+    "id": "nm1216260",
+    "year_entry": "",
+    "last_name": "Desai",
+    "first_name": "Kanchan Kapoor",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0004430": {
+    "id": "nm0004430",
+    "year_entry": 1982,
+    "last_name": "Kapoor",
+    "first_name": "Karan",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004626": {
+    "id": "nm0004626",
+    "year_entry": 200,
+    "last_name": "Kapoor",
+    "first_name": "Kareena",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0006433": {
+    "id": "nm0006433",
+    "year_entry": 1991,
+    "last_name": "Kapoor",
+    "first_name": "Karisma",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2049722": {
+    "id": "nm2049722",
+    "year_entry": 1987,
+    "last_name": "Kapoor",
+    "first_name": "Krishna",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm1577858": {
+    "id": "nm1577858",
+    "year_entry": 2001,
+    "last_name": "Kapoor",
+    "first_name": "Kunal",
+    "profession": "actor/other",
+    "relation": []
+  },
+  "nm0802183": {
+    "id": "nm0802183",
+    "year_entry": 1966,
+    "last_name": "Kapoor",
+    "first_name": "Neetu Singh",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0004434": {
+    "id": "nf0004434",
+    "year_entry": 1969,
+    "last_name": "Kapoor",
+    "first_name": "Neila Devi",
+    "profession": "spouse",
+    "relation": []
+  },
+  "nm1629078": {
+    "id": "nm1629078",
+    "year_entry": 1988,
+    "last_name": "Kapoor",
+    "first_name": "Nitin",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm0004432": {
+    "id": "nm0004432",
+    "year_entry": 1929,
+    "last_name": "Kapoor",
+    "first_name": "Prithviraj",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004292": {
+    "id": "nm0004292",
+    "year_entry": 1935,
+    "last_name": "Kapoor",
+    "first_name": "Raj",
+    "profession": "actor/producer/director",
+    "relation": []
+  },
+  "nm0438497": {
+    "id": "nm0438497",
+    "year_entry": 1981,
+    "last_name": "Kapoor",
+    "first_name": "Rajiv",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm1633541": {
+    "id": "nm1633541",
+    "year_entry": 2004,
+    "last_name": "Kapoor",
+    "first_name": "Ranbir",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0196380": {
+    "id": "nm0196380",
+    "year_entry": 1955,
+    "last_name": "Kapoor",
+    "first_name": "Randhir",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm3608045": {
+    "id": "nm3608045",
+    "year_entry": 2014,
+    "last_name": "Kapoor",
+    "first_name": "Rhea",
+    "profession": "producer/other",
+    "relation": []
+  },
+  "nm0438501": {
+    "id": "nm0438501",
+    "year_entry": 1955,
+    "last_name": "Kapoor",
+    "first_name": "Rishi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0438504": {
+    "id": "nm0438504",
+    "year_entry": 1979,
+    "last_name": "Kapoor",
+    "first_name": "Sanjana",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0438503": {
+    "id": "nm0438503",
+    "year_entry": 1995,
+    "last_name": "Kapoor",
+    "first_name": "Sanjay",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1372788": {
+    "id": "nm1372788",
+    "year_entry": 1997,
+    "last_name": "Kapoor",
+    "first_name": "Shahid",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0007106": {
+    "id": "nm0007106",
+    "year_entry": 1975,
+    "last_name": "Kapoor",
+    "first_name": "Shakti",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004433": {
+    "id": "nm0004433",
+    "year_entry": 1953,
+    "last_name": "Kapoor",
+    "first_name": "Shammi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004434": {
+    "id": "nm0004434",
+    "year_entry": 1945,
+    "last_name": "Kapoor",
+    "first_name": "Shashi",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0438506": {
+    "id": "nm0438506",
+    "year_entry": "",
+    "last_name": "Kapoor",
+    "first_name": "Shobha",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm3601766": {
+    "id": "nm3601766",
+    "year_entry": 2010,
+    "last_name": "Kapoor",
+    "first_name": "Shraddha",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2128238": {
+    "id": "nm2128238",
+    "year_entry": 2005,
+    "last_name": "Kapoor",
+    "first_name": "Sonam",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004437": {
+    "id": "nm0004437",
+    "year_entry": 1967,
+    "last_name": "Kapoor",
+    "first_name": "Sridevi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0438508": {
+    "id": "nm0438508",
+    "year_entry": 1958,
+    "last_name": "Kapoor",
+    "first_name": "Surinder",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0438510": {
+    "id": "nm0438510",
+    "year_entry": 1933,
+    "last_name": "Kapoor",
+    "first_name": "Trilok",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0969428": {
+    "id": "nm0969428",
+    "year_entry": 2001,
+    "last_name": "Kapoor",
+    "first_name": "Tusshar",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0001409": {
+    "id": "nf0001409",
+    "year_entry": "",
+    "last_name": "Kapur",
+    "first_name": "Neelu",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0438488": {
+    "id": "nm0438488",
+    "year_entry": 1981,
+    "last_name": "Kapur",
+    "first_name": "Pankaj",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0001408": {
+    "id": "nf0001408",
+    "year_entry": "",
+    "last_name": "Kapur",
+    "first_name": "Sheel Kanta",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0001408": {
+    "id": "nm0001408",
+    "year_entry": 1974,
+    "last_name": "Kapur",
+    "first_name": "Shekhar",
+    "profession": "actor/director/producer",
+    "relation": []
+  },
+  "nm0440235": {
+    "id": "nm0440235",
+    "year_entry": 1951,
+    "last_name": "Kartik",
+    "first_name": "Kalpana",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451148": {
+    "id": "nm0451148",
+    "year_entry": 1973,
+    "last_name": "Khan",
+    "first_name": "Aamir",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm1139068": {
+    "id": "nm1139068",
+    "year_entry": 1974,
+    "last_name": "Khan",
+    "first_name": "Akbar",
+    "profession": "actor/director/producer",
+    "relation": []
+  },
+  "nm0023863": {
+    "id": "nm0023863",
+    "year_entry": 1951,
+    "last_name": "Khan",
+    "first_name": "Amanullah",
+    "profession": "other/actor",
+    "relation": []
+  },
+  "nm0451170": {
+    "id": "nm0451170",
+    "year_entry": 1996,
+    "last_name": "Khan",
+    "first_name": "Arbaaz",
+    "profession": "actor/producer/director",
+    "relation": []
+  },
+  "nm0451207": {
+    "id": "nm0451207",
+    "year_entry": 1969,
+    "last_name": "Khan",
+    "first_name": "Faisal",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0007134": {
+    "id": "nm0007134",
+    "year_entry": 1981,
+    "last_name": "Khan",
+    "first_name": "Farah",
+    "profession": "other/actor",
+    "relation": []
+  },
+  "nm0007228": {
+    "id": "nm0007228",
+    "year_entry": 1998,
+    "last_name": "Khan",
+    "first_name": "Fardeen",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451211": {
+    "id": "nm0451211",
+    "year_entry": 1956,
+    "last_name": "Khan",
+    "first_name": "Feroze",
+    "profession": "actor/producer/director",
+    "relation": []
+  },
+  "nm0451215": {
+    "id": "nm0451215",
+    "year_entry": 1993,
+    "last_name": "Khan",
+    "first_name": "Gauri",
+    "profession": "other/producer",
+    "relation": []
+  },
+  "nm0374974": {
+    "id": "nm0374974",
+    "year_entry": 1945,
+    "last_name": "Khan",
+    "first_name": "Helen",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1405359": {
+    "id": "nm1405359",
+    "year_entry": 1988,
+    "last_name": "Khan",
+    "first_name": "Imraan",
+    "profession": "actor/director",
+    "relation": []
+  },
+  "nm0436967": {
+    "id": "nm0436967",
+    "year_entry": 1953,
+    "last_name": "Khan",
+    "first_name": "Kamran",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451257": {
+    "id": "nm0451257",
+    "year_entry": 1988,
+    "last_name": "Khan",
+    "first_name": "Mansoor",
+    "profession": "director/producer",
+    "relation": []
+  },
+  "nm0451261": {
+    "id": "nm0451261",
+    "year_entry": 1979,
+    "last_name": "Khan",
+    "first_name": "Mazhar",
+    "profession": "actor/director",
+    "relation": []
+  },
+  "nm0403826": {
+    "id": "nm0403826",
+    "year_entry": 1953,
+    "last_name": "Khan",
+    "first_name": "Nasir Hussain",
+    "profession": "director/producer/writer",
+    "relation": []
+  },
+  "nm1539779": {
+    "id": "nm1539779",
+    "year_entry": 1977,
+    "last_name": "Khan",
+    "first_name": "Nikhat",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0451307": {
+    "id": "nm0451307",
+    "year_entry": 1993,
+    "last_name": "Khan",
+    "first_name": "Saif Ali",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm1349318": {
+    "id": "nm1349318",
+    "year_entry": 1989,
+    "last_name": "Khan",
+    "first_name": "Sajid",
+    "profession": "actor/other",
+    "relation": []
+  },
+  "nm0451311": {
+    "id": "nm0451311",
+    "year_entry": 1960,
+    "last_name": "Khan",
+    "first_name": "Salim",
+    "profession": "writer/actor/producer",
+    "relation": []
+  },
+  "nm0006795": {
+    "id": "nm0006795",
+    "year_entry": 1988,
+    "last_name": "Khan",
+    "first_name": "Salman",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0451313": {
+    "id": "nm0451313",
+    "year_entry": 1962,
+    "last_name": "Khan",
+    "first_name": "Sanjay",
+    "profession": "actor/director/producer",
+    "relation": []
+  },
+  "nm9071083": {
+    "id": "nm9071083",
+    "year_entry": 2018,
+    "last_name": "Khan",
+    "first_name": "Sara Ali",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451321": {
+    "id": "nm0451321",
+    "year_entry": 1988,
+    "last_name": "Khan",
+    "first_name": "Shah Rukh",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm1675786": {
+    "id": "nm1675786",
+    "year_entry": 2004,
+    "last_name": "Khan",
+    "first_name": "Soha Ali",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451326": {
+    "id": "nm0451326",
+    "year_entry": 1998,
+    "last_name": "Khan",
+    "first_name": "Sohail",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0403981": {
+    "id": "nm0403981",
+    "year_entry": 1961,
+    "last_name": "Khan",
+    "first_name": "Tahir Hussain",
+    "profession": "producer/actor",
+    "relation": []
+  },
+  "nm1300301": {
+    "id": "nm1300301",
+    "year_entry": 2003,
+    "last_name": "Khan",
+    "first_name": "Zayed",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451379": {
+    "id": "nm0451379",
+    "year_entry": 1997,
+    "last_name": "Khanna",
+    "first_name": "Akshaye",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451391": {
+    "id": "nm0451391",
+    "year_entry": 1998,
+    "last_name": "Khanna",
+    "first_name": "Rahul",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004435": {
+    "id": "nm0004435",
+    "year_entry": 1962,
+    "last_name": "Khanna",
+    "first_name": "Rajesh",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451392": {
+    "id": "nm0451392",
+    "year_entry": 1999,
+    "last_name": "Khanna",
+    "first_name": "Rinke",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451396": {
+    "id": "nm0451396",
+    "year_entry": 1969,
+    "last_name": "Khanna",
+    "first_name": "Vinod",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2020109": {
+    "id": "nm2020109",
+    "year_entry": 2005,
+    "last_name": "Khatter",
+    "first_name": "Ishaan",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1279922": {
+    "id": "nm1279922",
+    "year_entry": 1989,
+    "last_name": "Khatter",
+    "first_name": "Rajesh",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0447240": {
+    "id": "nm0447240",
+    "year_entry": 1987,
+    "last_name": "Khemu",
+    "first_name": "Kunal",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451600": {
+    "id": "nm0451600",
+    "year_entry": 1982,
+    "last_name": "Kher",
+    "first_name": "Anupam",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0451601": {
+    "id": "nm0451601",
+    "year_entry": 1983,
+    "last_name": "Kher",
+    "first_name": "Kirron",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1199508": {
+    "id": "nm1199508",
+    "year_entry": 1985,
+    "last_name": "Kher",
+    "first_name": "Raju",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm3071488": {
+    "id": "nm3071488",
+    "year_entry": 2008,
+    "last_name": "Kher",
+    "first_name": "Sikandar",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0451846": {
+    "id": "nm0451846",
+    "year_entry": 1955,
+    "last_name": "Khosla",
+    "first_name": "Raj",
+    "profession": "director/writer/producer",
+    "relation": []
+  },
+  "nm0456096": {
+    "id": "nm0456096",
+    "year_entry": 1948,
+    "last_name": "Kiran",
+    "first_name": "Usha",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0471427": {
+    "id": "nm0471427",
+    "year_entry": 1975,
+    "last_name": "Krishan",
+    "first_name": "Prem",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0474774": {
+    "id": "nm0474774",
+    "year_entry": 1987,
+    "last_name": "Kumar",
+    "first_name": "Akshay",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0474876": {
+    "id": "nm0474876",
+    "year_entry": 1960,
+    "last_name": "Kumar",
+    "first_name": "Sanjeev",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0474932": {
+    "id": "nm0474932",
+    "year_entry": 1939,
+    "last_name": "Kumari",
+    "first_name": "Meena",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1145655": {
+    "id": "nm1145655",
+    "year_entry": 2000,
+    "last_name": "Kunder",
+    "first_name": "Shirish",
+    "profession": "other/writer/music",
+    "relation": []
+  },
+  "nf0527451": {
+    "id": "nf0527451",
+    "year_entry": 1989,
+    "last_name": "Luthria",
+    "first_name": "Arjun",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0527453": {
+    "id": "nm0527453",
+    "year_entry": 1989,
+    "last_name": "Luthria",
+    "first_name": "Milan",
+    "profession": "director",
+    "relation": []
+  },
+  "nf0527452": {
+    "id": "nf0527452",
+    "year_entry": 1989,
+    "last_name": "Luthria",
+    "first_name": "Milan's Mother",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0837199": {
+    "id": "nm0837199",
+    "year_entry": 1954,
+    "last_name": "Luthria",
+    "first_name": "Sudhir",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0961448": {
+    "id": "nm0961448",
+    "year_entry": 1966,
+    "last_name": "Malhotra",
+    "first_name": "Narendra Nath",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0622193": {
+    "id": "nm0622193",
+    "year_entry": 1947,
+    "last_name": "Malhotra",
+    "first_name": "Prem Nath",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0707398": {
+    "id": "nm0707398",
+    "year_entry": 1938,
+    "last_name": "Malhotra",
+    "first_name": "Rajendra Nath",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0007107": {
+    "id": "nm0007107",
+    "year_entry": 1980,
+    "last_name": "Matondkar",
+    "first_name": "Urmila",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0004487": {
+    "id": "nf0004487",
+    "year_entry": 1995,
+    "last_name": "Mehta",
+    "first_name": "Jay",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0592578": {
+    "id": "nm0592578",
+    "year_entry": 1950,
+    "last_name": "Mirza",
+    "first_name": "Akhtar",
+    "profession": "writer",
+    "relation": []
+  },
+  "nm0592583": {
+    "id": "nm0592583",
+    "year_entry": 1987,
+    "last_name": "Mirza",
+    "first_name": "Aziz",
+    "profession": "director/producer",
+    "relation": []
+  },
+  "nm0592595": {
+    "id": "nm0592595",
+    "year_entry": 1976,
+    "last_name": "Mirza",
+    "first_name": "Saeed",
+    "profession": "director",
+    "relation": []
+  },
+  "nm2209781": {
+    "id": "nm2209781",
+    "year_entry": 2005,
+    "last_name": "Mukerjee",
+    "first_name": "Ayan",
+    "profession": "director/actor",
+    "relation": []
+  },
+  "nm0971111": {
+    "id": "nm0971111",
+    "year_entry": 1965,
+    "last_name": "Mukherjee",
+    "first_name": "Deb",
+    "profession": "actor/director/producer",
+    "relation": []
+  },
+  "nm0611527": {
+    "id": "nm0611527",
+    "year_entry": 1940,
+    "last_name": "Mukherjee",
+    "first_name": "Gyan",
+    "profession": "director/writer",
+    "relation": []
+  },
+  "nm0611535": {
+    "id": "nm0611535",
+    "year_entry": 1960,
+    "last_name": "Mukherjee",
+    "first_name": "Joy",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2752803": {
+    "id": "nm2752803",
+    "year_entry": 1964,
+    "last_name": "Mukherjee",
+    "first_name": "Krishna",
+    "profession": "singer",
+    "relation": []
+  },
+  "nm5619229": {
+    "id": "nm5619229",
+    "year_entry": 1977,
+    "last_name": "Mukherjee",
+    "first_name": "Raja",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0611550": {
+    "id": "nm0611550",
+    "year_entry": 1960,
+    "last_name": "Mukherjee",
+    "first_name": "Ram",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0611552": {
+    "id": "nm0611552",
+    "year_entry": 1989,
+    "last_name": "Mukherjee",
+    "first_name": "Rani",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf1642510": {
+    "id": "nf1642510",
+    "year_entry": 1939,
+    "last_name": "Mukherjee",
+    "first_name": "Ravindramohan",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0611558": {
+    "id": "nm0611558",
+    "year_entry": 1977,
+    "last_name": "Mukherjee",
+    "first_name": "Samrat",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1642511": {
+    "id": "nm1642511",
+    "year_entry": 1939,
+    "last_name": "Mukherjee",
+    "first_name": "Sashadhar",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm4554077": {
+    "id": "nm4554077",
+    "year_entry": 1947,
+    "last_name": "Mukherjee",
+    "first_name": "Sati devi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1166510": {
+    "id": "nm1166510",
+    "year_entry": 1977,
+    "last_name": "Mukherjee",
+    "first_name": "Sharbani",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1126884": {
+    "id": "nm1126884",
+    "year_entry": 1973,
+    "last_name": "Mukherjee",
+    "first_name": "Shomu",
+    "profession": "director/writer/producer",
+    "relation": []
+  },
+  "nm1860887": {
+    "id": "nm1860887",
+    "year_entry": 1979,
+    "last_name": "Mukherjee",
+    "first_name": "Shyam",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0611582": {
+    "id": "nm0611582",
+    "year_entry": 1955,
+    "last_name": "Mukherjee",
+    "first_name": "Subodh",
+    "profession": "director/producer/writer",
+    "relation": []
+  },
+  "nm0849500": {
+    "id": "nm0849500",
+    "year_entry": 2003,
+    "last_name": "Mukherjee",
+    "first_name": "Tanisha",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm0849863": {
+    "id": "nm0849863",
+    "year_entry": 1950,
+    "last_name": "Mukherjee",
+    "first_name": "Tanuja",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0612618": {
+    "id": "nm0612618",
+    "year_entry": 1955,
+    "last_name": "Mumtaz",
+    "first_name": "Minoo",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1396405": {
+    "id": "nm1396405",
+    "year_entry": 1977,
+    "last_name": "Nadiadwala",
+    "first_name": "H. A.",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm1195705": {
+    "id": "nm1195705",
+    "year_entry": 1963,
+    "last_name": "Nadiadwala",
+    "first_name": "A. K.",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm0618898": {
+    "id": "nm0618898",
+    "year_entry": 1967,
+    "last_name": "Nadiadwala",
+    "first_name": "Sajid",
+    "profession": "producer/writer",
+    "relation": []
+  },
+  "nm2143210": {
+    "id": "nm2143210",
+    "year_entry": 2006,
+    "last_name": "Nair",
+    "first_name": "Onjolee",
+    "profession": "director",
+    "relation": []
+  },
+  "nf0004294": {
+    "id": "nf0004294",
+    "year_entry": 1997,
+    "last_name": "Nanda",
+    "first_name": "Nikhil",
+    "profession": "relative",
+    "relation": []
+  },
+  "nf0004293": {
+    "id": "nf0004293",
+    "year_entry": "",
+    "last_name": "Nanda",
+    "first_name": "Ritu Kapoor",
+    "profession": "relative",
+    "relation": []
+  },
+  "nf0000821": {
+    "id": "nf0000821",
+    "year_entry": "",
+    "last_name": "Nanda",
+    "first_name": "Shweta Bachchan",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0992664": {
+    "id": "nm0992664",
+    "year_entry": 1993,
+    "last_name": "Nath",
+    "first_name": "Karan",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0707534": {
+    "id": "nm0707534",
+    "year_entry": 1955,
+    "last_name": "Nath",
+    "first_name": "Reema",
+    "profession": "writer/director",
+    "relation": []
+  },
+  "nm0632615": {
+    "id": "nm0632615",
+    "year_entry": 1971,
+    "last_name": "Nischol",
+    "first_name": "Navin",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0643348": {
+    "id": "nm0643348",
+    "year_entry": 2001,
+    "last_name": "Oberoi",
+    "first_name": "Akshay",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0643350": {
+    "id": "nm0643350",
+    "year_entry": 1967,
+    "last_name": "Oberoi",
+    "first_name": "Suresh",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1059103": {
+    "id": "nm1059103",
+    "year_entry": 2002,
+    "last_name": "Oberoi",
+    "first_name": "Vivek",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2138653": {
+    "id": "nm2138653",
+    "year_entry": 2006,
+    "last_name": "Padukone",
+    "first_name": "Deepika",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0659156": {
+    "id": "nm0659156",
+    "year_entry": 1986,
+    "last_name": "Pancholi",
+    "first_name": "Aditya",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm4808460": {
+    "id": "nm4808460",
+    "year_entry": 2012,
+    "last_name": "Pancholi",
+    "first_name": "Sooraj",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0661239": {
+    "id": "nm0661239",
+    "year_entry": 1952,
+    "last_name": "Parekh",
+    "first_name": "Asha",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1637738": {
+    "id": "nm1637738",
+    "year_entry": 1971,
+    "last_name": "Parekh",
+    "first_name": "Sudha",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0665351": {
+    "id": "nm0665351",
+    "year_entry": 1983,
+    "last_name": "Patel",
+    "first_name": "Anuradha",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0665544": {
+    "id": "nm0665544",
+    "year_entry": 1948,
+    "last_name": "Pathak",
+    "first_name": "Dina",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0665550": {
+    "id": "nm0665550",
+    "year_entry": 1983,
+    "last_name": "Pathak",
+    "first_name": "Ratna",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0665554": {
+    "id": "nm0665554",
+    "year_entry": 1981,
+    "last_name": "Pathak",
+    "first_name": "Supriya",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0665599": {
+    "id": "nm0665599",
+    "year_entry": 1974,
+    "last_name": "Patil",
+    "first_name": "Smita",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0706790": {
+    "id": "nm0706790",
+    "year_entry": 1951,
+    "last_name": "Rai",
+    "first_name": "Bina",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0707502": {
+    "id": "nm0707502",
+    "year_entry": 1964,
+    "last_name": "Rajvansh",
+    "first_name": "Priya",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0713618": {
+    "id": "nm0713618",
+    "year_entry": 1981,
+    "last_name": "Razdan",
+    "first_name": "Soni",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004335": {
+    "id": "nm0004335",
+    "year_entry": 1986,
+    "last_name": "Roshan",
+    "first_name": "Hrithik",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0004436": {
+    "id": "nm0004436",
+    "year_entry": 1974,
+    "last_name": "Roshan",
+    "first_name": "Rajesh",
+    "profession": "music",
+    "relation": []
+  },
+  "nm0004363": {
+    "id": "nm0004363",
+    "year_entry": 1970,
+    "last_name": "Roshan",
+    "first_name": "Rakesh",
+    "profession": "director/producer/actor",
+    "relation": []
+  },
+  "nm0004362": {
+    "id": "nm0004362",
+    "year_entry": 1950,
+    "last_name": "Roshan",
+    "first_name": "",
+    "profession": "music",
+    "relation": []
+  },
+  "nm2265217": {
+    "id": "nm2265217",
+    "year_entry": 1997,
+    "last_name": "Roy",
+    "first_name": "Manasi Joshi",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1123937": {
+    "id": "nm1123937",
+    "year_entry": 1994,
+    "last_name": "Roy",
+    "first_name": "Rohit",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0747172": {
+    "id": "nm0747172",
+    "year_entry": 1992,
+    "last_name": "Roy",
+    "first_name": "Ronit",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0756379": {
+    "id": "nm0756379",
+    "year_entry": 1946,
+    "last_name": "Sahni",
+    "first_name": "Balraj",
+    "profession": "actor/director",
+    "relation": []
+  },
+  "nm0756380": {
+    "id": "nm0756380",
+    "year_entry": 1984,
+    "last_name": "Sahni",
+    "first_name": "Bhisham",
+    "profession": "writer/actor/producer",
+    "relation": []
+  },
+  "nm1442631": {
+    "id": "nm1442631",
+    "year_entry": 1946,
+    "last_name": "Sahni",
+    "first_name": "Damayanti",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0756378": {
+    "id": "nm0756378",
+    "year_entry": 1951,
+    "last_name": "Sahni",
+    "first_name": "Parikshat",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1062896": {
+    "id": "nm1062896",
+    "year_entry": 1982,
+    "last_name": "Samanta",
+    "first_name": "Ashim",
+    "profession": "director/producer",
+    "relation": []
+  },
+  "nm0759662": {
+    "id": "nm0759662",
+    "year_entry": 1955,
+    "last_name": "Samanta",
+    "first_name": "Shakti",
+    "profession": "director/producer",
+    "relation": []
+  },
+  "nm6184263": {
+    "id": "nm6184263",
+    "year_entry": 1988,
+    "last_name": "Samanta",
+    "first_name": "Amitabh",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm5055052": {
+    "id": "nm5055052",
+    "year_entry": 2012,
+    "last_name": "Samanta",
+    "first_name": "Aditya",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0006357": {
+    "id": "nf0006357",
+    "year_entry": 1935,
+    "last_name": "Samarth",
+    "first_name": "Kumarsen",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0006358": {
+    "id": "nm0006358",
+    "year_entry": 1935,
+    "last_name": "Samarth",
+    "first_name": "Shobhana",
+    "profession": "actor/director",
+    "relation": []
+  },
+  "nm0764314": {
+    "id": "nm0764314",
+    "year_entry": 1946,
+    "last_name": "Santoshi",
+    "first_name": "P. L.",
+    "profession": "director/writer",
+    "relation": []
+  },
+  "nm0764316": {
+    "id": "nm0764316",
+    "year_entry": 1990,
+    "last_name": "Santoshi",
+    "first_name": "Rajkumar",
+    "profession": "director/producer/writer",
+    "relation": []
+  },
+  "nm1927212": {
+    "id": "nm1927212",
+    "year_entry": 1944,
+    "last_name": "Sapru",
+    "first_name": "D. K.",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0764667": {
+    "id": "nm0764667",
+    "year_entry": 1975,
+    "last_name": "Sapru",
+    "first_name": "Priti",
+    "profession": "actor/writer",
+    "relation": []
+  },
+  "nm0764669": {
+    "id": "nm0764669",
+    "year_entry": 1965,
+    "last_name": "Sapru",
+    "first_name": "Tej",
+    "profession": "actor/director",
+    "relation": []
+  },
+  "nm1437485": {
+    "id": "nm1437485",
+    "year_entry": 2010,
+    "last_name": "Shah",
+    "first_name": "Imaad",
+    "profession": "actor/music/writer",
+    "relation": []
+  },
+  "nm0787462": {
+    "id": "nm0787462",
+    "year_entry": 1967,
+    "last_name": "Shah",
+    "first_name": "Naseeruddin",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm3865073": {
+    "id": "nm3865073",
+    "year_entry": 2011,
+    "last_name": "Shah",
+    "first_name": "Vivaan",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm7508187": {
+    "id": "nm7508187",
+    "year_entry": 2015,
+    "last_name": "Shetty",
+    "first_name": "Athiya",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0792911": {
+    "id": "nm0792911",
+    "year_entry": 1992,
+    "last_name": "Shetty",
+    "first_name": "Sunil",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0794484": {
+    "id": "nm0794484",
+    "year_entry": 1935,
+    "last_name": "Shivdasani",
+    "first_name": "Hari",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0623321": {
+    "id": "nm0623321",
+    "year_entry": 1958,
+    "last_name": "Shivdasani",
+    "first_name": "Sadhana",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm1228897": {
+    "id": "nm1228897",
+    "year_entry": 1984,
+    "last_name": "Shroff",
+    "first_name": "Ayesha",
+    "profession": "producer/actor",
+    "relation": []
+  },
+  "nm0006763": {
+    "id": "nm0006763",
+    "year_entry": 1973,
+    "last_name": "Shroff",
+    "first_name": "Jackie",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm5899377": {
+    "id": "nm5899377",
+    "year_entry": 2014,
+    "last_name": "Shroff",
+    "first_name": "Tiger",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0802080": {
+    "id": "nm0802080",
+    "year_entry": 1983,
+    "last_name": "Singh",
+    "first_name": "Amrita",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0307230": {
+    "id": "nf0307230",
+    "year_entry": 1962,
+    "last_name": "Singh",
+    "first_name": "Darshi",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm1942776": {
+    "id": "nm1942776",
+    "year_entry": 1964,
+    "last_name": "Singh",
+    "first_name": "Kanwaljit",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0159148": {
+    "id": "nf0159148",
+    "year_entry": 1970,
+    "last_name": "Singh",
+    "first_name": "Mohinder",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm3828984": {
+    "id": "nm3828984",
+    "year_entry": 2010,
+    "last_name": "Singh",
+    "first_name": "Ranveer",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2182334": {
+    "id": "nm2182334",
+    "year_entry": 1960,
+    "last_name": "Sippy",
+    "first_name": "Ajit",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0802688": {
+    "id": "nm0802688",
+    "year_entry": 1951,
+    "last_name": "Sippy",
+    "first_name": "G. P.",
+    "profession": "producer/director",
+    "relation": []
+  },
+  "nf0802688": {
+    "id": "nf0802688",
+    "year_entry": 1957,
+    "last_name": "Sippy",
+    "first_name": "Mohini",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm0802693": {
+    "id": "nm0802693",
+    "year_entry": 1968,
+    "last_name": "Sippy",
+    "first_name": "Ramesh",
+    "profession": "director/producer",
+    "relation": []
+  },
+  "nm1391682": {
+    "id": "nm1391682",
+    "year_entry": 1995,
+    "last_name": "Sippy",
+    "first_name": "Rohan",
+    "profession": "producer/director",
+    "relation": []
+  },
+  "nm6327494": {
+    "id": "nm6327494",
+    "year_entry": 2014,
+    "last_name": "Sippy",
+    "first_name": "Sascha",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm1762903": {
+    "id": "nm1762903",
+    "year_entry": 2005,
+    "last_name": "Sippy",
+    "first_name": "Sheena",
+    "profession": "other",
+    "relation": []
+  },
+  "nm1242277": {
+    "id": "nm1242277",
+    "year_entry": 2000,
+    "last_name": "Sippy",
+    "first_name": "Sunhil",
+    "profession": "director/producer/other",
+    "relation": []
+  },
+  "nf0802689": {
+    "id": "nf0802689",
+    "year_entry": 1968,
+    "last_name": "Sippy",
+    "first_name": "Sunita",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm1207634": {
+    "id": "nm1207634",
+    "year_entry": 1980,
+    "last_name": "Sippy",
+    "first_name": "Suresh",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm0802695": {
+    "id": "nm0802695",
+    "year_entry": 1975,
+    "last_name": "Sippy",
+    "first_name": "Vijay",
+    "profession": "other/producer",
+    "relation": []
+  },
+  "nm1887138": {
+    "id": "nm1887138",
+    "year_entry": 2005,
+    "last_name": "Suri",
+    "first_name": "Mohit",
+    "profession": "director",
+    "relation": []
+  },
+  "nm0839634": {
+    "id": "nm0839634",
+    "year_entry": 1999,
+    "last_name": "Suri",
+    "first_name": "Sanjay",
+    "profession": "actor/producer",
+    "relation": []
+  },
+  "nm2124966": {
+    "id": "nm2124966",
+    "year_entry": 2005,
+    "last_name": "Suri",
+    "first_name": "Smiley",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0846616": {
+    "id": "nm0846616",
+    "year_entry": 1959,
+    "last_name": "Tagore",
+    "first_name": "Sharmila",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2838280": {
+    "id": "nm2838280",
+    "year_entry": 1997,
+    "last_name": "Thapar",
+    "first_name": "Valmik",
+    "profession": "producer",
+    "relation": []
+  },
+  "nm6327493": {
+    "id": "nm6327493",
+    "year_entry": 2006,
+    "last_name": "Uttamsingh",
+    "first_name": "Shaan",
+    "profession": "other",
+    "relation": []
+  },
+  "nm0894340": {
+    "id": "nm0894340",
+    "year_entry": 1961,
+    "last_name": "Verma",
+    "first_name": "Deven",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm4858207": {
+    "id": "nm4858207",
+    "year_entry": 2012,
+    "last_name": "Virwani",
+    "first_name": "Tanuj",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0906226": {
+    "id": "nm0906226",
+    "year_entry": 1974,
+    "last_name": "Wahab",
+    "first_name": "Zarina",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2226774": {
+    "id": "nm2226774",
+    "year_entry": 1985,
+    "last_name": "",
+    "first_name": "Farha Naaz",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0415274": {
+    "id": "nm0415274",
+    "year_entry": 1935,
+    "last_name": "",
+    "first_name": "Jaddanbai",
+    "profession": "director/writer/actor",
+    "relation": []
+  },
+  "nm0534866": {
+    "id": "nm0534866",
+    "year_entry": 1976,
+    "last_name": "",
+    "first_name": "Madhoo",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm0534870": {
+    "id": "nm0534870",
+    "year_entry": 1939,
+    "last_name": "",
+    "first_name": "Madhubala",
+    "profession": "actor",
+    "relation": []
+  },
+  "nf0534865": {
+    "id": "nf0534865",
+    "year_entry": 1965,
+    "last_name": "",
+    "first_name": "Raghunath",
+    "profession": "relative",
+    "relation": []
+  },
+  "nm5478232": {
+    "id": "nm5478232",
+    "year_entry": 2009,
+    "last_name": "Nijjar",
+    "first_name": "Sunny",
+    "profession": "actor",
+    "relation": []
+  },
+  "nm2936282": {
+    "id": "nm2936282",
+    "year_entry": 1988,
+    "last_name": "Nijjar",
+    "first_name": "Jai Singh",
+    "profession": "other",
+    "relation": []
+  }
+}

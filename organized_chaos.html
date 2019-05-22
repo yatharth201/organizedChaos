@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    
+        <!-- Bootstrap CSS -->
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://d3js.org/d3.v3.min.js"></script>
+        
+    
+        <!-- Custom CSS -->
+        <link rel="stylesheet" type="text/css" href="./stylesheets/astyles.css">
+
+    
+        <!-- Custom JS -->
+        <script type="text/javascript" src = "./scripts/forceGraph.js"></script>
+        <script type="text/javascript" src = "./scripts/fisheye.js"></script>
+    
+        <!-- Load custom font -->
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato"/>
+    
+        <title>Organised Chaos</title>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class = "row">
+                <div class="col-md-4" id="left"> 
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <h1 id = "title">
+                                ORGANISED CHAOS
+                            </h1>
+    
+                            <p id="infoPara">
+                                <i>Organized Chaos</i> presents a visualization of the star-centric system in Indian popular cinema. The great majority of Bollywood stars are connected via family networks, formed over several decades.
+                                    The lack of regulations in the film industry
+                                    made it a lucrative opportunity for a fast 
+                                    return of capital during WWII. The studios, 
+                                    with their extensive infrastructure, could 
+                                    not compete with the flow of independent 
+                                    capital and slowly disappeared, making way 
+                                    for the ad hoc style of filmmaking. Actors 
+                                    and actresses became the biggest 
+                                    beneficiaries of the freelancing system, and
+                                    with time, this star-centric system became a
+                                    dynastic system. This unique feature of 
+                                    Bollywood and Indian popular cinema is the 
+                                    subject of <i>Organized Chaos</i>. 
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12" id="wikiBox">
+                            <p id="wikiPara"></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6" id = "chart">
+                    <script type="text/javascript">
+                        init();
+                    </script>
+                </div>
+                
+                <div class="col-md-2" id = "right">
+                    <div class ="row">
+                        <div class = "col-xs-6" id = "yeartext">
+                            <h1 id = "title">Year</h1>
+                        </div>
+                        <div class = "col-xs-6" id = "yeardiv">
+                            <h1 id = "yearbox"></h1>
+                        </div>
+                        <div class="slidecontainer col-xs-12">
+                            <input type="range" min="1" max="100" value="50" class="slider" id="myRange" onmouseup="slideRelease()" onmousedown = "slidePress()">
+                        </div>
+                    </div>
+                    
+                    <div class="legend1">
+                	  <h3 class = "legend">Legend</h3>
+                     <div class="legend1"> <p class="country-name"><span class="key-dot Actor"></span>Actor</p> </div>
+                     <div class="legend1"> <p class="country-name"><span class="key-dot Director"></span>Director</p> </div>
+                     <div class="legend1"> <p class="country-name"><span class="key-dot Producer"></span>Producer</p> </div>
+                     <div class="legend1"> <p class="country-name"><span class="key-dot Other"></span>Other</p> </div>
+                     <br/>
+                     <div class="legend1"> <p class="country-name"><span class="key-line Sibling-Relationship"></span>Sibling Relationship</p> </div>
+                     <div class="legend1"> <p class="country-name"><span class="key-line Marriage-Relationship"></span>Marriage Relationship</p> </div>
+                     <div class="legend1"> <p class="country-name"><span class="key-line Parent-Child-Relationship"></span>Parent-Child Relationship</p> </div>
+                	</div>
+                	
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

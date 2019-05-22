@@ -1,0 +1,476 @@
+{
+  "edgeList":[
+  {
+    "source": "nm2655625",
+    "": "",
+    "target": "nm0013158",
+    "directedness": "undirected",
+    "relation": "marriage",
+    "weight": ""
+  },
+  {
+    "source": "nm2655625",
+    "": "",
+    "target": "nm0006795",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0451170",
+    "": "",
+    "target": "nm0006795",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0451311",
+    "": "",
+    "target": "nm0006795",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0451311",
+    "": "",
+    "target": "nm0374974",
+    "directedness": "undirected",
+    "relation": "marriage",
+    "weight": ""
+  },
+  {
+    "source": "nf0332870",
+    "": "",
+    "target": "nm0332871",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nf0332870",
+    "": "",
+    "target": "nm0222469",
+    "directedness": "undirected",
+    "relation": "marriage",
+    "weight": ""
+  },
+  {
+    "source": "nm0007147",
+    "": "",
+    "target": "nm0025608",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0007147",
+    "": "",
+    "target": "nm0025629",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0025608",
+    "": "",
+    "target": "nm0025629",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0451311",
+    "": "",
+    "target": "nm0006795",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0025613",
+    "": "",
+    "target": "nm0025627",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0025613",
+    "": "",
+    "target": "nm1027791",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm1027791",
+    "": "",
+    "target": "nm1893457",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0037019",
+    "": "",
+    "target": "nm1147677",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0037019",
+    "": "",
+    "target": "nm0451170",
+    "directedness": "undirected",
+    "relation": "marriage",
+    "weight": ""
+  },
+  {
+    "source": "nm0006795",
+    "": "",
+    "target": "nm0451170",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0006795",
+    "": "",
+    "target": "nf0000820",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0044796",
+    "": "",
+    "target": "nm1191646",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0044796",
+    "": "",
+    "target": "nm3070408",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nf0000820",
+    "": "",
+    "target": "nm0000821",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nf0000820",
+    "": "",
+    "target": "nf0000822",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nf0000820",
+    "": "",
+    "target": "nm0045394",
+    "directedness": "undirected",
+    "relation": "marriage",
+    "weight": ""
+  },
+  {
+    "source": "nm0044796",
+    "": "",
+    "target": "nm1318320",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0080320",
+    "": "",
+    "target": "nm0080319",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0080320",
+    "": "",
+    "target": "nm0080315",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0080315",
+    "": "",
+    "target": "nm0080324",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0080315",
+    "": "",
+    "target": "nm1017633",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0080315",
+    "": "",
+    "target": "nm7248508",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0080319",
+    "": "",
+    "target": "nm0080315",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0149822",
+    "": "",
+    "target": "nm3002347",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0149822",
+    "": "",
+    "target": "nm0151293",
+    "directedness": "undirected",
+    "relation": "marriage",
+    "weight": ""
+  },
+  {
+    "source": "nm0151293",
+    "": "",
+    "target": "nm3002347",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm8707924",
+    "": "",
+    "target": "nm0154146",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nf0000822",
+    "": "",
+    "target": "nf0000823",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004429",
+    "": "",
+    "target": "nm0219971",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004429",
+    "": "",
+    "target": "nm0219967",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004429",
+    "": "",
+    "target": "nm0219968",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0219971",
+    "": "",
+    "target": "nm0219967",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0219968",
+    "": "",
+    "target": "nm0219971",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0219968",
+    "": "",
+    "target": "nm0219967",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0007181",
+    "": "",
+    "target": "nm0159148",
+    "directedness": "undirected",
+    "relation": "sibling",
+    "weight": ""
+  },
+  {
+    "source": "nm0219971",
+    "": "",
+    "target": "nm5376616",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0159148",
+    "": "",
+    "target": "nm0159162",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0007181",
+    "": "",
+    "target": "nm0159147",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0159149",
+    "": "",
+    "target": "nm0159147",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0159147",
+    "": "",
+    "target": "nm0611552",
+    "directedness": "undirected",
+    "relation": "marriage",
+    "weight": ""
+  },
+  {
+    "source": "nm0004432",
+    "": "",
+    "target": "nm0004292",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004432",
+    "": "",
+    "target": "nm0004433",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004432",
+    "": "",
+    "target": "nm0004434",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004292",
+    "": "",
+    "target": "nm0196380",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004292",
+    "": "",
+    "target": "nm0438501",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0438501",
+    "": "",
+    "target": "nm1633541",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0196380",
+    "": "",
+    "target": "nm0006433",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0196380",
+    "": "",
+    "target": "nm0004626",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004434",
+    "": "",
+    "target": "nm0004430",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004434",
+    "": "",
+    "target": "nm0969428",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004434",
+    "": "",
+    "target": "nm0438471",
+    "directedness": "directed",
+    "relation": "parent-child",
+    "weight": ""
+  },
+  {
+    "source": "nm0004434",
+    "": "",
+    "target": "nm0438506",
+    "directedness": "undirected",
+    "relation": "marriage",
+    "weight": ""
+  }
+]
+}
